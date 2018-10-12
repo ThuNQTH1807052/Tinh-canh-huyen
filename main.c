@@ -5,7 +5,7 @@
 //Viết hàm tính chiều dài cạnh huyền của tam giác và in ra kết qủa. Lưu ý độ dài 2 cạnh không được nhỏ hơn 0.
 
 float tinhCanhHuyen(int a, int b) {
-    return sqrt(a * a + b * b);
+    return sqrt(pow(a, 2) + pow(b, 2));
 }
 
 int main() {
