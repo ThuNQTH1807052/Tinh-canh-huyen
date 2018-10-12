@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ikutaoki/CLionProjects/Bai04_Tinh-canh-huyen-tam-giac-vuong/main.c
+stdio.h
+-
+math.h
+-
+

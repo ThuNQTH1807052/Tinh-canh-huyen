@@ -1,0 +1,3 @@
+/Users/ikutaoki/CLionProjects/Bai04_Tinh-canh-huyen-tam-giac-vuong/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ikutaoki/CLionProjects/Bai04_Tinh-canh-huyen-tam-giac-vuong/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ikutaoki/CLionProjects/Bai04_Tinh-canh-huyen-tam-giac-vuong/cmake-build-debug/CMakeFiles/Bai04_Tinh_canh_huyen_tam_giac_vuong.dir
